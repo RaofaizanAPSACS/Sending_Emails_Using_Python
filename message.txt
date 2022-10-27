@@ -1,0 +1,8 @@
+Hi ${PERSON_NAME},
+
+Congrats!
+You have been selected as a ${POSITION} of the GDSC Data Science Team. 
+Looking forward to your active response throughout the period.
+
+Thanks & Regards,
+Muhammad Faizan - Data Science Lead (GDSC)
